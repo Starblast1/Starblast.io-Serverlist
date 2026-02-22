@@ -1,6 +1,6 @@
 # Starblast.io Ultimate Server Browser 🚀
 
-[![Live ](https://img.shields.io/badge/-live-brightgreen)]([https://yourusername.github.io/starblast-server-list](https://starblast1.github.io/Serverlist/))
+[![Live ](https://img.shields.io/badge/-live-brightgreen)]([[https://yourusername.github.io/starblast-server-list](https://starblast1.github.io/Serverlist/)](https://starblast1.github.io/Serverlist/))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/Starblast1/Serverlist)](https://github.com/Starblast1/Serverlist/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Starblast1/Serverlist)](https://github.com/Starblast1/Serverlist/issues)
