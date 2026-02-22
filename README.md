@@ -1,14 +1,14 @@
 # https://Starblast.io Serverlist 🚀
 Starblast server list
 
-[![Live ](https://img.shields.io/badge/-live-brightgreen)](https://starblast1.github.io/Serverlist/)
+[![Live ](https://img.shields.io/badge/-live-brightgreen)](https://starblast1.github.io/Starblast.io-Serverlist/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/Starblast1/Serverlist)](https://github.com/Starblast1/Serverlist/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Starblast1/Serverlist)](https://github.com/Starblast1/Serverlist/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Starblast1/Starblast.io-Serverlist)](https://github.com/Starblast1/Starblast.io-Serverlist/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Starblast1/Starblast.io-Serverlist)](https://github.com/Starblast1/Starblast.io-Serverlist/issues)
 
 A beautiful, real-time server browser and clan tracker for **Starblast.io** with glass-morphism UI, multi-language support, and advanced filtering.
 
-![Starblast Server List Screenshot](https://github.com/deeeeeeeead/Serverlist/blob/main/Screenshot%202026-02-22%20204828.png?raw=true)
+![Starblast Server List Screenshot](https://github.com/Starblast1/Starblast.io-Serverlist/blob/main/Screenshot%202026-02-22%20204828.png?raw=true)
 
 ## ✨ Features
 
