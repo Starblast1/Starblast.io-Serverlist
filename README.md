@@ -1,5 +1,5 @@
 # https://Starblast.io Serverlist 🚀
-Starblast server list
+Starblast server list (S2F serverlist)
 
 [![Live ](https://img.shields.io/badge/-live-brightgreen)](https://starblast1.github.io/Starblast.io-Serverlist/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -54,8 +54,5 @@ A beautiful, real-time server browser and clan tracker for **Starblast.io** with
 
 ---
 
-## 🚀 Live 
-
-**[Click here to try the live !][(https://yourusername.github.io/Serverlist](https://deeeeeeeead.github.io/Serverlist/))**
-
----
+Sky 2 Fly serverlist!
+server:https://discord.gg/sky2fly
